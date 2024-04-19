@@ -1,6 +1,6 @@
-import { useContext } from "react"
-import { PlusIcon, CheckIcon } from "@heroicons/react/24/solid"
-import { ShoppingCartContext } from "../../Context"
+import { useContext } from 'react'
+import { PlusIcon, CheckIcon } from '@heroicons/react/24/solid'
+import { ShoppingCartContext } from '../../Context'
 
 const Card = (data) => {
   const context = useContext(ShoppingCartContext)
@@ -48,7 +48,7 @@ const Card = (data) => {
         <img className='w-full h-full object-cover rounded-lg' src={data.data.images[0]} alt={data.data.title} />
         {renderIcon(data.data.id)}
       </figure>
-      <p className='flex justify-between'>
+      <p className='flex justify-between items-center'>
         <span className='text-sm font-light'>{data.data.title}</span>
         <span className='text-lg font-medium'>${data.data.price}</span>
       </p>
