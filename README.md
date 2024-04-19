@@ -11,3 +11,7 @@ Visita nuestro sitio web de e-commerce https://main--fabulous-tapioca-2989c3.net
 
 
 ¡Esperamos que disfrutes de tu experiencia de compra!
+
+## Run Manual
+
+Para acceder a la página web manualmente, ejecuta los comandos "npm install" y posteriormente "npm run dev".
