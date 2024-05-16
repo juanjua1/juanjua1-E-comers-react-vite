@@ -48,7 +48,6 @@ This project is licensed under the MIT License.
 
 
 
-Feel free to modify the content as needed, especially the repository URL, project description, and any other details that are specific to your project.
 
 
 
