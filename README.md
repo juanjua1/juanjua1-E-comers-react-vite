@@ -1,4 +1,4 @@
-##Online Store with React, Vite, and Tailwind CSS
+##Online Store with React, Vite, and Tailwind CSSs
 
 This project is an online store created using React for an interactive and dynamic interface, Vite for fast and efficient development, and Tailwind CSS for elegant and responsive design. The main goal is to practice using these technologies to build a modern web application.
 
